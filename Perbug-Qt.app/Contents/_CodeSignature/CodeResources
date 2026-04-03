@@ -59,6 +59,24 @@
 			<key>requirement</key>
 			<string>cdhash H"3ac0a94632cc7b34ddd5b31108435c052bdf1aaa"</string>
 		</dict>
+		<key>Frameworks/QtPdf.framework</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			Zs20LFbhfNdXFSU9bJMZt8oSc7I=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"66cdb42c56e17cd75715253d6c9319b7ca1273b2"</string>
+		</dict>
+		<key>Frameworks/QtSvg.framework</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			3rta1UlrbFrCMRLpRVJiUvii6PU=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"debb5ad5496b6c5ac23112e945526252f8a2e8f5"</string>
+		</dict>
 		<key>Frameworks/QtWidgets.framework</key>
 		<dict>
 			<key>cdhash</key>
@@ -90,10 +108,10 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			SGxsEe07021yvMs/HF/LOulhu0k=
+			DItfjvUZuj2ND+L/U87HNWrLZdA=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"486c6c11ed3bd36d72bccb3f1c5fcb3ae961bb49"</string>
+			<string>cdhash H"0c8b5f8ef519ba3d8d0fe2ff53cec7356acb65d0"</string>
 		</dict>
 		<key>Frameworks/libcrypto.3.dylib</key>
 		<dict>
@@ -230,6 +248,42 @@
 			<key>requirement</key>
 			<string>cdhash H"e4edce6f7160511f8fec923914705dc1fee2cdd4"</string>
 		</dict>
+		<key>Frameworks/libjasper.7.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			zTy3/v6NANCF0zNC3ZgoB5rjbCQ=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"cd3cb7fefe8d00d085d33342dd9828079ae36c24"</string>
+		</dict>
+		<key>Frameworks/libjpeg.8.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			LjDcdwU09rHrp4bcTQ/sPXEDXtc=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"2e30dc770534f6b1eba786dc4d0fec3d71035ed7"</string>
+		</dict>
+		<key>Frameworks/liblcms2.2.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			5mrli6GkbHQjRJNy7Rv4Yy3FqA4=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"e66ae58ba1a46c7423449372ed1bf8632dc5a80e"</string>
+		</dict>
+		<key>Frameworks/liblzma.5.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			O9f6bSYsfIN1LNiD2ezfnZAvmJE=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"3bd7fa6d262c7c83752cd883d9ecdf9d902f9891"</string>
+		</dict>
 		<key>Frameworks/libmd4c.0.dylib</key>
 		<dict>
 			<key>cdhash</key>
@@ -238,6 +292,15 @@
 			</data>
 			<key>requirement</key>
 			<string>cdhash H"8015be0e01870b776f9fa3093f5996a5c0c63ce9"</string>
+		</dict>
+		<key>Frameworks/libmng.2.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			cBCRG15BdUrdJL5AoUW2z3IgGFQ=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"7010911b5e41754add24be40a145b6cf72201854"</string>
 		</dict>
 		<key>Frameworks/libpcre2-16.0.dylib</key>
 		<dict>
@@ -275,6 +338,15 @@
 			<key>requirement</key>
 			<string>cdhash H"eb2cae3dcabdb789f12775b4042ec14cf09a0151"</string>
 		</dict>
+		<key>Frameworks/libsharpyuv.0.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			YMvL8Zq4ixEOh2Xmq5sHSL3cwbQ=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"60cbcbf19ab88b110e8765e6ab9b0748bddcc1b4"</string>
+		</dict>
 		<key>Frameworks/libssl.3.dylib</key>
 		<dict>
 			<key>cdhash</key>
@@ -284,6 +356,42 @@
 			<key>requirement</key>
 			<string>cdhash H"8e8940459b1ab1dc3fdd844dd78d8a56bd950908"</string>
 		</dict>
+		<key>Frameworks/libtiff.6.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			VDBaZ/HRD02GJvhuBH9cfivjLa0=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"54305a67f1d10f4d8626f86e047f5c7e2be32dad"</string>
+		</dict>
+		<key>Frameworks/libwebp.7.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			RN5V3WxoogMLrfaH4xFFpem+ROo=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"44de55dd6c68a2030badf687e31145a5e9be44ea"</string>
+		</dict>
+		<key>Frameworks/libwebpdemux.2.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			DwFGIIc/t9j2j7kvu8m21QAnFRk=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"0f014620873fb7d8f68fb92fbbc9b6d500271519"</string>
+		</dict>
+		<key>Frameworks/libwebpmux.3.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			9N9TjNXeZ5S3x6cziWAZxQGbXF0=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"f4df538cd5de6794b7c7a733896019c5019b5c5d"</string>
+		</dict>
 		<key>Frameworks/libzstd.1.dylib</key>
 		<dict>
 			<key>cdhash</key>
@@ -292,6 +400,141 @@
 			</data>
 			<key>requirement</key>
 			<string>cdhash H"94b15495fe0c68038f50d87e070932ba776e8e3e"</string>
+		</dict>
+		<key>PlugIns/iconengines/libqsvgicon.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			2czdGJzXF8U03K2i7KYCUtAyJKg=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"d9ccdd189cd717c534dcada2eca60252d03224a8"</string>
+		</dict>
+		<key>PlugIns/imageformats/libqgif.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			id55yaMFTv1vSk4rpvnPOfAXyqY=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"89de79c9a3054efd6f4a4e2ba6f9cf39f017caa6"</string>
+		</dict>
+		<key>PlugIns/imageformats/libqicns.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			/RZnsBuSfnsFn62gPad1FIGSjww=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"fd1667b01b927e7b059fada03da7751481928f0c"</string>
+		</dict>
+		<key>PlugIns/imageformats/libqico.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			Yh6j1qXOX0hXRErk48QZ3cKBMsQ=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"621ea3d6a5ce5f4857444ae4e3c419ddc28132c4"</string>
+		</dict>
+		<key>PlugIns/imageformats/libqjp2.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			l2dW0xdQBCyNAcvQDjNmM4r4Qg4=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"976756d31750042c8d01cbd00e3366338af8420e"</string>
+		</dict>
+		<key>PlugIns/imageformats/libqjpeg.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			UZNaD2AMbid5Qtp0HiXQCNIKLEg=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"51935a0f600c6e277942da741e25d008d20a2c48"</string>
+		</dict>
+		<key>PlugIns/imageformats/libqmacheif.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			X7uzI4eGm2AMJIZNIPGrmNAIvMk=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"5fbbb32387869b600c24864d20f1ab98d008bcc9"</string>
+		</dict>
+		<key>PlugIns/imageformats/libqmng.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			Sow8OiYQYKkSjUvLQ8AbVCW0rSo=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"4a8c3c3a261060a9128d4bcb43c01b5425b4ad2a"</string>
+		</dict>
+		<key>PlugIns/imageformats/libqpdf.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			P47pWyeqB/OF/0y6IwkK1Yr0JEY=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"3f8ee95b27aa07f385ff4cba23090ad58af42446"</string>
+		</dict>
+		<key>PlugIns/imageformats/libqtga.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			shgNxPPYcqBgEhiI/Mdznm0hhgg=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"b2180dc4f3d872a060121888fcc7739e6d218608"</string>
+		</dict>
+		<key>PlugIns/imageformats/libqtiff.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			ujHQk+XuVk4xrAth1ikOR2hWeGQ=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"ba31d093e5ee564e31ac0b61d6290e4768567864"</string>
+		</dict>
+		<key>PlugIns/imageformats/libqwbmp.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			qzA4tVyH9F/GtDkiwAunRYUVYkE=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"ab3038b55c87f45fc6b43922c00ba74585156241"</string>
+		</dict>
+		<key>PlugIns/imageformats/libqwebp.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			eammpndypORKk6UKUYmTHeQ/+WU=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"79a9a6a67772a4e44a93a50a5189931de43ff965"</string>
+		</dict>
+		<key>PlugIns/platforms/libqcocoa.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			+fcV7Qcm97A5MAquvdoj0Vrinqo=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"f9f715ed0726f7b039300aaebdda23d15ae29eaa"</string>
+		</dict>
+		<key>PlugIns/styles/libqmacstyle.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			4c4je3NXPb9ujn/V7diouqnRrzk=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"e1ce237b73573dbf6e8e7fd5edd8a8baa9d1af39"</string>
 		</dict>
 		<key>Resources/Base.lproj/InfoPlist.strings</key>
 		<dict>
